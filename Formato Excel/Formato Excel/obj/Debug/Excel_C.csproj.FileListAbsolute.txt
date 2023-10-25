@@ -1,0 +1,10 @@
+G:\Formato Excel\Formato Excel\bin\Debug\Formato Excel.exe.config
+G:\Formato Excel\Formato Excel\bin\Debug\Formato Excel.exe
+G:\Formato Excel\Formato Excel\bin\Debug\Formato Excel.pdb
+G:\Formato Excel\Formato Excel\obj\Debug\Excel_C.csprojAssemblyReference.cache
+G:\Formato Excel\Formato Excel\obj\Debug\Formato_Excel.Form1.resources
+G:\Formato Excel\Formato Excel\obj\Debug\Formato_Excel.Properties.Resources.resources
+G:\Formato Excel\Formato Excel\obj\Debug\Excel_C.csproj.GenerateResource.cache
+G:\Formato Excel\Formato Excel\obj\Debug\Excel_C.csproj.CoreCompileInputs.cache
+G:\Formato Excel\Formato Excel\obj\Debug\Formato Excel.exe
+G:\Formato Excel\Formato Excel\obj\Debug\Formato Excel.pdb
